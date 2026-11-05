@@ -68,3 +68,4 @@ vsproj/gdsqlite.vcxproj.*
 # Python generated
 __pycache__/
 *.pyc
+.vs/godot-sqlite/FileContentIndex/86373da0-fd3e-48ee-aeef-e1cf4997da98.vsidx
